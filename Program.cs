@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Professor!");
+            Console.WriteLine("My name is William Cram, and this is my starter project");
         } // Main
 
     } // class
