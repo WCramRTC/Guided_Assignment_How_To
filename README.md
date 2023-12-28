@@ -1,9 +1,3 @@
-<style>
-	img { 
-		width: 75%;
-	}
-</style>
-
 [Introduction](#intro) - [Requirements](#requirements) - [Step By Step](#step-by-step) - [Rubric](#rubric)
 
 # Guided Assignment: Starter Project
