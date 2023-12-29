@@ -70,5 +70,16 @@ This should bring up the GitHub Repository with the assignment.
 
 ---
 
+### Step 4. Add the Extension to properly view Markdown files
+
+1. Click `Extensions` on the Visual Studio menu bar, then `Manage Extensions`
+2. In the search box on the upper right corner, search for ***markdown***
+3. Select and install **"Markdown v2"**.
+4. Double click the **README.md** file in the Solution Explorer window, located on the right hand side.
+    - If you don't see it you might need to select the *Solution Explorer* tab.
+
+
+---
+
 <a id="rubric"></a>
 ### Rubric
