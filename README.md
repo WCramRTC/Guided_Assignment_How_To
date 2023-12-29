@@ -38,12 +38,24 @@ Requirements
 - If you haven't already, sign up for a free GitHub account.
     - Use your **student.rtc.edu** email for free perks.
 	- Goto www.github.com
-    - [Setting Up Your GitHub Account](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
-	- How to Create a GitHub Account (2023) - Full Tutorial - 
+    - Video: [Setting Up Your GitHub Account](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
+    	- How to Create a GitHub Account (2023) - Full Tutorial - SWIFTNESS
 
 ---
 
-### 2. Create a new Console Application in Visual Studio
+### 2. Click on the GitHub link to show the assignment
+
+Click on the link in the assignment that will take you to the GitHub Repository.
+
+### [Guided Assignment : How to do the Guided Assignments](https://github.com/WCramRTC/Guided_Assignment_How_To)
+
+This should bring up the GitHub Repository with the assignment.
+
+![Click To Show Project](Images/ClickToShowProject.gif)
+
+---
+
+### 3. Create a new Console Application in Visual Studio
 1. Open Visual Studio 2022
 2. Create a new Console Application
 3. Give it the name ***GA\_Starter_Project\_YourName***   
@@ -53,6 +65,10 @@ Example: `GA_Start_Project_WCram`
 
 ![Creating New Project](Images/Creating_New_Project.gif)
 
+
+> **From here you can follow the instructions directly from GitHub.**
+
+> **You can also click the green **`code`** button and download the repository. This will include the README.md with instructions, and a working project to test.**
 ---
 
 ### 3. Edit "Hello, World" to say "Hello, Professor"
@@ -82,14 +98,17 @@ Example: `GA_Start_Project_WCram`
 
 ### 5. Save and Run your code
 1. Save your code by either 
-- Clicking on the File Menu in the top left corner and clicking *Save All*, orhttp://browsing-file-host/Images/RunningCode.png
+- Clicking on the File Menu in the top left corner and clicking *Save All*, 
+	### or
 - Pressing `Ctrl + Shift + S`. This is the hotkey to save all.
 
 ![Save All](Images/SaveAll.gif)
 
 2. Run your code by either
-- Clicking the Green Arrow above your code, or
-- Clicking **Debug** then **Start Debugging** , or
+- Clicking the Green Arrow above your code
+    ### or
+- Clicking **Debug** then **Start Debugging**
+    ### or
 - Pressing **F5**
 
 If it works you should see a console application appear with your text.
