@@ -25,7 +25,7 @@ Requirements
 2. Click the link to go to the Guided Assignment online.
 3. Download the project to your computer
 4. Add the Extension so you can see the formatted README.md
-5. Type DONE in the submission textbox online
+5. Type your name in the submission textbox online and submit
 
 ---
 
@@ -85,10 +85,20 @@ This should bring up the GitHub Repository with the assignment.
 
 ### Step 5. Paste DONE in the Assignment Submission Textbox on Canvas
 
-1. On Canvas type the word DONE in the submission box and hit submit.
+1. On Canvas type your name in the submission box and hit submit.
     - In the future you will submit your repository links in the submission box.
 
-
+---
 
 <a id="rubric"></a>
-## Rubric
+## Assignment Rubric
+
+
+| Step                | Description                                                         | Points |
+|---------------------|---------------------------------------------------------------------|--------|
+| Setup GitHub Account | Create and setup your GitHub account to access Guided Assignments.  | 40     |
+| Access Guided Assignment | Click the provided link to go to the Guided Assignment online.      | 15     |
+| Download Project    | Download the project to your local computer.                        | 15     |
+| Add Extension       | Add the required extension to view the formatted README.md file.    | 15     |
+| Submit Assignment   | Type your name in the submission textbox online and submit the assignment. | 15     |
+
