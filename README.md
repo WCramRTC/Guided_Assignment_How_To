@@ -81,5 +81,12 @@ This should bring up the GitHub Repository with the assignment.
 
 ---
 
+### Step 5. Paste DONE in the Assignment Submission Textbox on Canvas
+
+1. On Canvas type the word DONE in the submission box and hit submit.
+    - In the future you will submit your repository links in the submission box.
+
+
+
 <a id="rubric"></a>
-### Rubric
+## Rubric
