@@ -60,13 +60,14 @@ This should bring up the GitHub Repository with the assignment.
 ### Step 3. Click `Code` and open the project in Visual Studio.
 
 1. Click the large green `Code` button in the upper corner of the repository.
-2. Click the `Open in Visual Studio` option.
+2. Click the `Open with Visual Studio` option.
     - Depending on what programs you have installed different options may appear.
     - You should already have Visual Studio 2022 installed, so this option should appear.
-3. Select the folder where you want to save this project, and click `Ok`.
+3. Select the folder where you want to save this project, and click `Clone`.
 4. The project should now open on your computer.
+5. In the Solution Explorer to the right, click the little arrow next to the 2nd file, which will be the project name. This should show you all the files.
 
-
+![Open In Visual Studio](Images/OpenInVisualStudio.gif)
 
 ---
 
@@ -78,6 +79,7 @@ This should bring up the GitHub Repository with the assignment.
 4. Double click the **README.md** file in the Solution Explorer window, located on the right hand side.
     - If you don't see it you might need to select the *Solution Explorer* tab.
 
+![Add Extension](Images/AddExtension.gif)
 
 ---
 
