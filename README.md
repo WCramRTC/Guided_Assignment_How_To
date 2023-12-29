@@ -16,6 +16,8 @@ Requirements
 - Visual Studio 2022
 - GitHub Account ( www.GitHub.com )
 
+Video Walkthrough: https://youtu.be/EZYbTLSwnTw?si=6tcdBjULf2tclNMB
+
 ---
 
 <a id="requirements"></a>
