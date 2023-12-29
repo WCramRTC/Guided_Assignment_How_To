@@ -10,7 +10,7 @@
 
 Guided assignments are a hands, step by step exercise to introduce new subjects.
 
-This starter project will make sure you are setup to complete the future guided assignments and submit them properly.
+This starter project will make sure you know how to read and work with the Guided Assignments.
 
 Requirements
 - Visual Studio 2022
@@ -59,8 +59,14 @@ This should bring up the GitHub Repository with the assignment.
 ---
 ### Step 3. Click `Code` and open the project in Visual Studio.
 
-- A large green button with the word `CODE` appears on the top right of your repository. Click this button.
-- 
+1. Click the large green `Code` button in the upper corner of the repository.
+2. Click the `Open in Visual Studio` option.
+    - Depending on what programs you have installed different options may appear.
+    - You should already have Visual Studio 2022 installed, so this option should appear.
+3. Select the folder where you want to save this project, and click `Ok`.
+4. The project should now open on your computer.
+
+
 
 ---
 
